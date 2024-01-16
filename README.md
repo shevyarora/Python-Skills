@@ -21,4 +21,8 @@ Source code --->Interpreter { Compiler ---> Byte code ---> Python Virtual Machin
 
 Python Virtual Machine includes Library Modules .
 
+## Comments 
+
+Using # symbol we can comment 
+
 
