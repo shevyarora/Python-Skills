@@ -26,3 +26,16 @@ Python Virtual Machine includes Library Modules .
 Using # symbol we can comment 
 
 
+### Just a Note : There are many types of casing but I will be talking about the three most useful cases 
+
+** Camel Case : 
+  Eg: camelCase
+
+** Snake Case :
+ Eg : snake_case
+
+ ** Pascal Case :
+ Eg : PascalCase
+
+ 
+
